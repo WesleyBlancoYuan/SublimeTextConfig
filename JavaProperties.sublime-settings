@@ -1,0 +1,9 @@
+// These settings override both User and Default settings for the JavaProperties syntax
+{
+	"auto_indent": true,
+	"fold_buttons": true,
+	"font_size": 12,
+	"preview_on_click": true,
+	"font_face": "Dejavu Sans Mono",
+	"tab_size": 4
+}

@@ -1,11 +1,19 @@
 {
 	"auto_indent": true,
 	"color_scheme": "Packages/Color Scheme - Default/LAZY.tmTheme",
+	"draw_white_space": "all",
 	"fold_buttons": true,
-	"font_face": "Yahei Consolas Hybrid",
-	"font_size": 12,
+	"font_face": "Dejavu Sans Mono",
+	"font_size": 11,
+	"http_proxy": "http://proxybc.seg-social.es:8080",
+	"https_proxy": "http://proxybc.seg-social.es:8080",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
 	"preview_on_click": true,
+	"proxy_password": "zhzhha66",
+	"proxy_username": "99GU6879",
 	"tab_size": 4,
-	"word_wrap": true,
-	"wrap_width": 80
+	"translate_tabs_to_spaces": true
 }

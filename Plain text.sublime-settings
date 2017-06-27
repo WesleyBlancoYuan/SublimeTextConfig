@@ -1,0 +1,11 @@
+// These settings override both User and Default settings for the Plain text syntax
+{
+	"auto_indent": true,
+	"fold_buttons": true,
+	"font_face": "Dejavu Sans Mono",
+	"font_size": 12,
+	"preview_on_click": true,
+	"word_wrap": false,
+	"wrap_width": 100,
+	"tab_size": 4
+}

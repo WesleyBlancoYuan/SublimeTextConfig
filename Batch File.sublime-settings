@@ -1,0 +1,6 @@
+// These settings override both User and Default settings for the Batch File syntax
+{
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"font_face": "Dejavu Sans Mono",
+	"tab_size": 4
+}
